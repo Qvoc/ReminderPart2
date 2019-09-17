@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Reminder</string>
     <string name="action_settings">Settings</string>
-<string name="give_reminder">Give a reminder</string>
+    <string name="give_reminder">Reminder</string>
+    <string name="add_reminder"><b>Add your reminder</b></string>
+    <string name="title_activity_add">AddActivity</string>
 </resources>
